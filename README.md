@@ -1,7 +1,7 @@
 -ProgrammingAssignment2
 =======================
 
-R-Programming assignment2
+R-Programming assignment2 (forked from rdpeng/ProgrammingAssignment2)
 
 Introduction
 
